@@ -40,6 +40,7 @@ To learn about Spring Data REST and how to set up interactions between a Spring 
 
 # Built With
 * [React.js](https://reactjs.org/)
+* [Maven](https://maven.apache.org/)
 * [Spring Data REST](https://spring.io/projects/spring-data-rest)
 * [Thymeleaf](https://www.thymeleaf.org/)
 * [JPA](https://spring.io/projects/spring-data-jpa)

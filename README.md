@@ -22,17 +22,18 @@ Additional Objectives:
 # Prerequisites
 This project uses the following:
 * [React.js](https://reactjs.org/)
+* [Maven](https://maven.apache.org/)
 * [Spring Data REST](https://spring.io/projects/spring-data-rest)
 * [Thymeleaf](https://www.thymeleaf.org/)
 * [JPA](https://spring.io/projects/spring-data-jpa)
 * [H2](https://www.h2database.com/html/main.html)
 
 # Installation
+0. Confirm your maven installation with `mvn -version` or [download](https://maven.apache.org/download.cgi) and [install maven](https://maven.apache.org/install.html).
 1. Download or clone the source code.
 2. Open the project in your favorite editor.
 3. Navigate to the project location in a terminal.
 4. Enter `./mvnw spring-boot:run` in the terminal.
-
 
 # Usage
 To learn about Spring Data REST and how to set up interactions between a Spring back end and a React.js front end.

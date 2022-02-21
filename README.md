@@ -5,19 +5,19 @@ Description: An easy [tutorial from Spring.io](https://spring.io/guides/tutorial
 
 Current Completion:
 - [x] Part 1: Basic Features
-- [] Part 2: Hypermedia Controls
-- [] Part 3: Conditional Operations
-- [] Part 4: Events
-- [] Part 5: Securing the UI and API
+- [ ] Part 2: Hypermedia Controls
+- [ ] Part 3: Conditional Operations
+- [ ] Part 4: Events
+- [ ] Part 5: Securing the UI and API
 
 Additional Objectives:
-- [] Add tutorial code notes to repository for reference.
-- [] Generate list of terms and definitions for [Notion.so](https://www.notion.so/) personal glossary.
-- [] Determine if there are other learning opportunities that are adjacent to this exercise and complete ([such as this tutorial Dimitri Mestdagh](https://dimitr.im/bundling-react-spring-boot)).
-- [] Develop better understanding of Spring Data REST, document on Notion, and determine potential further learning opportunities.
-- [] Develop better understanding of Thymeleaf, document on Notion, and determine potential opportunities to integrate into future learning.
-- [] Develop better understanding of JPA, document on Notion, and determine potential opportunities to integrate into future learning.
-- [] Develop better understanding of H2, document on Notion, and determine potential opportunities to integrate into future learning.
+- [ ] Add tutorial code notes to repository for reference.
+- [ ] Generate list of terms and definitions for [Notion.so](https://www.notion.so/) personal glossary.
+- [ ] Determine if there are other learning opportunities that are adjacent to this exercise and complete ([such as this tutorial Dimitri Mestdagh](https://dimitr.im/bundling-react-spring-boot)).
+- [ ] Develop better understanding of Spring Data REST, document on Notion, and determine potential further learning opportunities.
+- [ ] Develop better understanding of Thymeleaf, document on Notion, and determine potential opportunities to integrate into future learning.
+- [ ] Develop better understanding of JPA, document on Notion, and determine potential opportunities to integrate into future learning.
+- [ ] Develop better understanding of H2, document on Notion, and determine potential opportunities to integrate into future learning.
 
 # Prerequisites
 This project uses the following:

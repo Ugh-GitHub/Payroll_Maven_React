@@ -1,8 +1,6 @@
 # WIP: React.js and Spring Data REST
 Duration: Couple of hours
 
-test
-
 Description: An easy [tutorial from Spring.io](https://spring.io/guides/tutorials/react-and-spring-data-rest/) that showcases how Spring Data REST and React.js can be integrated.
 
 Current Completion:

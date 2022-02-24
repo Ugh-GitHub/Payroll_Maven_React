@@ -116,6 +116,9 @@ class App extends React.Component { //(4)
 
 // tag::create-dialog[]
 class CreateDialog extends React.Component {
+	// This component doesn't function properly as a modal as it was written with refs.
+	// As the purpose of this exercise is to learn Java and Springboot (thus the APIs are the real value here)
+	// Going to ignore this issue at the present.
 
 	constructor(props) {
 		super(props);

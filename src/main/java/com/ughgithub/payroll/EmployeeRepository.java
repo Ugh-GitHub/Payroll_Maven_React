@@ -10,6 +10,7 @@ import org.springframework.security.access.prepost.PreAuthorize;
 // tag::code[]
 @PreAuthorize("hasRole('ROLE_MANAGER')") // <1>
 public interface EmployeeRepository extends PagingAndSortingRepository<Employee, Long> {
+	//The repository extends Spring Data Commons' CrudRepository and plugs in the type of the domain object and its primary key
 
 	@Override
 	@PreAuthorize("#employee?.manager == null or #employee?.manager?.name == authentication?.name")

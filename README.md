@@ -5,15 +5,15 @@ Description: An easy [tutorial from Spring.io](https://spring.io/guides/tutorial
 
 Current Completion:
 - [x] Part 1: Basic Features
-- [ ] Part 2: Hypermedia Controls
-- [ ] Part 3: Conditional Operations
-- [ ] Part 4: Events
-- [ ] Part 5: Securing the UI and API
+- [x] Part 2: Hypermedia Controls
+- [x] Part 3: Conditional Operations
+- [x] Part 4: Events
+- [x] Part 5: Securing the UI and API
 
 Additional Objectives:
-- [ ] Add tutorial code notes to repository for reference.
-- [ ] Generate list of terms and definitions for [Notion.so](https://www.notion.so/) personal glossary.
-- [ ] Determine if there are other learning opportunities that are adjacent to this exercise and complete ([such as this tutorial from Dimitri Mestdagh](https://dimitr.im/bundling-react-spring-boot)).
+- [ ] `in progress` Add tutorial code notes to repository for reference.
+- [ ] `in progress` Generate list of terms and definitions for [Notion.so](https://www.notion.so/) personal glossary.
+- [x] Determine if there are other learning opportunities that are adjacent to this exercise and complete ([such as this tutorial from Dimitri Mestdagh](https://dimitr.im/bundling-react-spring-boot)).
 - [ ] Develop a better understanding of Spring Data REST, document on Notion, and determine potential further learning opportunities.
 - [ ] Develop a better understanding of Thymeleaf, document on Notion, and determine potential opportunities to integrate into future learning.
 - [ ] Develop a better understanding of JPA, document on Notion, and determine potential opportunities to integrate into future learning.
@@ -48,7 +48,7 @@ To learn about Spring Data REST and how to set up interactions between a Spring 
 
 # Impediments & Improvements
 Improvements:
-* None at this time.
+* Update the React interface using more modern code (refs is deprecated, so none of the modals are functional). Given that this is outside the core focus of this tutorial (learning a Spring backend stack, specifically: Spring Data REST, Thymeleaf, & JPA), this will not be implemented within this repo.
 
 Impediments:
 * None at this time.

@@ -25,14 +25,12 @@ import javax.persistence.Version;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
-/**
- * @author Greg Turnquist
- */
-// tag::code[]
+// `@Entity` is a JPA annotation that denotes the whole class for storage in a relational table.
 @Entity
 public class Employee {
 
-	private @Id @GeneratedValue Long id;
+	private @Id @GeneratedValue Long id; 
+	//	`@Id` and `@GeneratedValue` are JPA annotations to note the primary key and that is generated automatically when needed.
 	private String firstName;
 	private String lastName;
 	private String description;
